@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Palace</string>
-
-    <string name="new_game">New Game</string>
-    <string name="view_game">View Games</string>
-
-    <string name="action_settings">Settings</string>
-</resources>
